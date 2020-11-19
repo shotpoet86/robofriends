@@ -8,7 +8,7 @@ import ErrorBoundary from "../components/ErrorBoundary";
 
 
 class App extends Component {
-    /*construcor opens the app on the webpage*/
+    /*constructor opens the app on the webpage*/
     constructor() {
         super()
         this.state = {
